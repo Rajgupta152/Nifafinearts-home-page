@@ -50,7 +50,7 @@ const Menu = () => {
           </Box>
         </Box>
       </Box>
-      <Box
+      {/* <Box
         component="div"
         className="select-box"
       >
@@ -67,7 +67,7 @@ const Menu = () => {
             <MenuItem value="Courses">Courses</MenuItem>
             <MenuItem value="Activities">Activities</MenuItem>
           </Select>
-      </Box>
+      </Box> */}
     </Box>
   );
 };
