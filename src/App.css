@@ -318,19 +318,24 @@ iframe{
 }
 
 /* Gallery.js */
+.gallery-top-container{
+  text-align: center;
+}
 .gallery-container{
-  width: 100%;
+  width: 80%;
   height: auto;
   position: relative;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   padding: 50px 0;
+  padding-left: 10%;
+  /* padding-right: 10%; */
   overflow: hidden;
 }
 .gallery-col{
   display: flex;
-  /* justify-content: center; */
+  justify-content: center;
   flex-wrap: wrap;
   width: 100%;
 }
@@ -417,6 +422,9 @@ iframe{
 .list-item a{
   color: #000;
   text-decoration: none;
+}
+.list-item a:hover{
+  color: #b11e6f;
 }
 .list-group{
   padding-left: 0;
