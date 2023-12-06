@@ -6,7 +6,7 @@ const OnlineClass = () => {
         <Box component="div" className="online-class-container">
             <Box component="div" className="online-class">
             <Box component="div" className="online-class-para">
-                <h2>Online Classes</h2>
+                <h1>Online Classes</h1>
                 <p>Dear Students/Parents, Nifa presents its Learning App for your regular art practice in which we have added many amazing features Like: Step-by-step recorded demo videos prepared by your faculty members. Regular assessment of your practise through assignment section. Live class section from same app. Attendance, payment invoice, art news, announcements, important information and direct connect with the management team are some more features. So hurry up n join now to experience personalised coaching by experts sitting at your home.</p>
                 <p>We wish u Happy Learning. Stay Safe n Healthy.</p>
                 <Button

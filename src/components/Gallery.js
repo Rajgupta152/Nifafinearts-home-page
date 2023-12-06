@@ -5,7 +5,7 @@ const Gallery = () => {
     return(
         <Box component="div" className="gallery-top-container">
         <Box component="div" className="gallery-heading">
-                <h2>Students Work </h2>
+                <h1>Students Work </h1>
             </Box>
         <Box component="div" className="gallery-container">
             

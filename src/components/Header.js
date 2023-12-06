@@ -45,16 +45,16 @@ const Header = () => {
                 justifyContent: "space-around"
             }}
             >
-               <a href="tel:9555112200">
+               <a href="https://www.facebook.com/nifafinearts">
                 <i class="fa-brands fa-facebook-f" style={{color: "#fff"}}></i> 
                 </a>
-                <a href="tel:9555112200">
+                <a href="https://twitter.com/artsnifa?lang=en">
                 <i class="fa-brands fa-twitter" style={{color: "#fff"}}></i> 
                 </a>
-                <a href="tel:9555112200">
+                <a href="https://instagram.com/nifafinearts?igshid=9ni7d0aogzed">
                 <i class="fa-brands fa-instagram" style={{color: "#fff"}}></i> 
                 </a>
-                <a href="tel:9555112200">
+                <a href="https://www.youtube.com/channel/UCud0pfiZT-Ph2JX1_tN6rbw">
                 <i class="fa-brands fa-youtube" style={{color: "#fff"}}></i> 
                 </a>
             </Box>

@@ -4,7 +4,7 @@ const Course = () => {
    return(
     <Box component="div" className="course-container">
     <Box component="div" className="course-heading">
-        <h2>Our Courses</h2>
+        <h1>Our Courses</h1>
     </Box>
     <Box component="div" className="all-courses">
     <Box component="div" className="row">
